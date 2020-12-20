@@ -29,7 +29,7 @@ module.exports = {
         embed: {
           title: "[Owner] Added Balance",
           description: Message,
-          color: "#8B0000",
+          color: "#9BE2F1",
           footer: {
             text: "Requested by " + message.author.tag,
             icon_url: message.author.displayAvatarURL()
